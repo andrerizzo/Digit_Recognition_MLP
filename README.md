@@ -1,0 +1,1 @@
+Apresento aqui um estudo detalhado sobre Redes Neurais Artificiais, especificamente focado em Perceptrons Multicamadas (MLP) aplicadas ao problema de reconhecimento de dígitos manuscritos utilizando o conjunto de dados MNIST.
